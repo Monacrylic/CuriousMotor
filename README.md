@@ -1,1 +1,3 @@
 # CuriousMotor
+
+Quick trial for shifting curiousmotor.com to netlify. Blogger definitely lacks features, so its time for an upgrade. Wordpress on the other hand is way too expensive for a beginner like me. Here's a trial....
